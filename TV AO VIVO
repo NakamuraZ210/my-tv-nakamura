@@ -1,30 +1,8 @@
 <channels>
 <channel>
-<name>[COLOR green]● [/COLOR][COLOR white]IPTV ALTERNATIVO[/COLOR]</name>
-<thumbnail>https://ia601403.us.archive.org/3/items/icones-series/ICONES%20IPTV.png</thumbnail>
-<externallink></externallink>
-<fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/fanart.jpg</fanart>
-<info>
-
-[COLOR red]|[/COLOR] TV AO VIVO [COLOR red]|[/COLOR]
-
-
-[COLOR green]● [/COLOR] VERDE O SERVIDOR ESTÁ ONLINE.
-
-[COLOR orange]● [/COLOR] LARANJA O SERVIDOR ESTÁ EM MANUTENÇÃO.
-
-[COLOR red]● [/COLOR] VERMELHO O SERVIDOR ESTÁ OFFLINE.
-
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR green]● [/COLOR][COLOR white]IPTV SD[/COLOR]</name>
 <thumbnail>https://ia601403.us.archive.org/3/items/icones-series/ICONES%20IPTV.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/NakamuraZ210/my-tv-nakamura/main/TV%20SD</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/fanart.jpg</fanart>
 <info>
 
@@ -46,7 +24,7 @@
 <channel>
 <name>[COLOR green]● [/COLOR][COLOR white]IPTV HD[/COLOR]</name>
 <thumbnail>https://ia601403.us.archive.org/3/items/icones-series/ICONES%20IPTV.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/NakamuraZ210/my-tv-nakamura/main/TV%20HD</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/fanart.jpg</fanart>
 <info>
 
@@ -68,7 +46,7 @@
 <channel>
 <name>[COLOR green]● [/COLOR][COLOR white]IPTV FHD[/COLOR]</name>
 <thumbnail>https://ia601403.us.archive.org/3/items/icones-series/ICONES%20IPTV.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/NakamuraZ210/my-tv-nakamura/main/TV%20FHD</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/fanart.jpg</fanart>
 <info>
 
@@ -90,7 +68,7 @@
 <channel>
 <name>[COLOR green]● [/COLOR][COLOR white]IPTV ESPORTES[/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/28/items/logotipo-icones-iptv-esporte/LOGOTIPO%20-%20ICONES%20IPTV%20ESPORTE.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/NakamuraZ210/my-tv-nakamura/main/TV%20ESPORTES%20SD%2C%20HD%2C%20FHD</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/fanart.jpg</fanart>
 <info>
 
@@ -110,13 +88,35 @@
 
 <channels>
 <channel>
-<name>[COLOR green]● [/COLOR][COLOR white]IPTV LEGENDADO[/COLOR]</name>
+<name>[COLOR red]● [/COLOR][COLOR white]IPTV LEGENDADO[/COLOR]</name>
 <thumbnail>https://ia801407.us.archive.org/17/items/iptv-esporte/TV%20LEGENDADO.jpg</thumbnail>
 <externallink></externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/fanart.jpg</fanart>
 <info>
 
 [COLOR red]|[/COLOR] TV AO VIVO NAS RESOLUÇÕES SD, HD, FHD "CANAIS LEGENDADOS [COLOR red]|[/COLOR]
+
+
+[COLOR green]● [/COLOR] VERDE O SERVIDOR ESTÁ ONLINE.
+
+[COLOR orange]● [/COLOR] LARANJA O SERVIDOR ESTÁ EM MANUTENÇÃO.
+
+[COLOR red]● [/COLOR] VERMELHO O SERVIDOR ESTÁ OFFLINE.
+
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR red]● [/COLOR][COLOR white]IPTV ALTERNATIVO[/COLOR]</name>
+<thumbnail>https://ia601403.us.archive.org/3/items/icones-series/ICONES%20IPTV.png</thumbnail>
+<externallink></externallink>
+<fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/fanart.jpg</fanart>
+<info>
+
+[COLOR red]|[/COLOR] TV AO VIVO [COLOR red]|[/COLOR]
 
 
 [COLOR green]● [/COLOR] VERDE O SERVIDOR ESTÁ ONLINE.
